@@ -1,2 +1,4 @@
 print("Hello Python")
-print("x")
+x=1
+x+=1
+print(x)
