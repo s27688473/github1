@@ -1,0 +1,8 @@
+cd [路徑]：前往資料夾路徑
+git init：初始化數據庫
+git status：查詢當前狀態
+git add .：將檔案加入到索引
+git commit -m "新增XX檔案"：將索引檔案變成一個更新，建議在""內寫更新內容
+git log：觀察 commit 歷史紀錄
+git clone：下載遠端數據庫
+git push origin master：更新遠端數據庫
